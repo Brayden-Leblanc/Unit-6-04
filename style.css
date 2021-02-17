@@ -2,6 +2,10 @@
   background: linear-gradient(-45deg, magenta, blue, pink, #23d5ab);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
+  margin-top: 25px;
+  margin-bottom: 125px;
+  margin-right: 250px;
+  margin-left: 250px;
 }
 
 @keyframes gradient {
@@ -18,7 +22,7 @@
   }
 }
 
-#bigtext {
+.bigtext {
   color: whitesmoke;
   text-shadow: 2px 2px 4px black;
   font-size: 150%;
