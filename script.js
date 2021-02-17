@@ -5,7 +5,7 @@ let button = 0
 
 document.getElementById('calculate').addEventListener('click', formula)
 
- function formula() {
+function formula () {
   a = document.getElementById('avalue').value
   b = document.getElementById('bvalue').value
   h = document.getElementById('hvalue').value
